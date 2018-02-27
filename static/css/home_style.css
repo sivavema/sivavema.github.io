@@ -1,0 +1,30 @@
+#header_block{
+    background-color:#bed5db;
+	height:20%;
+	margin:0px;
+}
+#header_logo{
+	padding:15px;
+	margin-left:5px;
+	float:left;
+	height:100%;
+}
+#header_title{
+	font-size:20px;
+	padding-top:1px;
+	margin-top:5px;
+	line-height:2px;
+	
+}
+#header_subtitle{
+	float:left;
+}
+#header_description{
+	float:right;
+}
+#main_container{
+	background-color:#e88dcf;
+	height:80%;
+	padding:0px;
+	margin:0px;
+}
